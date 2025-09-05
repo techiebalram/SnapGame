@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnapGame", "SnapGame\SnapGame.csproj", "{2BA95328-1579-4AC7-938C-EF350287BD68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnapGame.Tests", "SnapGame.Tests\SnapGame.Tests.csproj", "{B8301CE6-F4B5-455A-BE31-69A1EA580D91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BA95328-1579-4AC7-938C-EF350287BD68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BA95328-1579-4AC7-938C-EF350287BD68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BA95328-1579-4AC7-938C-EF350287BD68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BA95328-1579-4AC7-938C-EF350287BD68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8301CE6-F4B5-455A-BE31-69A1EA580D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8301CE6-F4B5-455A-BE31-69A1EA580D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8301CE6-F4B5-455A-BE31-69A1EA580D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8301CE6-F4B5-455A-BE31-69A1EA580D91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88C171F1-961A-46FC-B034-BA3534986ACB}
+	EndGlobalSection
+EndGlobal
